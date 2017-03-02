@@ -2,6 +2,7 @@ class AnswerForm < Reform::Form
   validates :content, :choice_id, :question_id, presence: true
 
   property :content
+  property :issue
   property :choice_id
   property :question_id
 

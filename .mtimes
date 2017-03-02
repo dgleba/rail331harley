@@ -1,0 +1,9 @@
+1488151151|.gitignore
+1488150764|app/controllers/surveys_controller.rb
+1488150816|app/forms/answer_form.rb
+1488150401|app/views/responses/question_body/_check_boxes.html.erb
+1488154765|db/development.sqlite3
+1488149898|db/migrate/20170226225818_add_issue_action_to_answers.rb
+1488149919|db/schema.rb
+1488151151|nbproject/project.properties
+1488151151|nbproject/project.xml
