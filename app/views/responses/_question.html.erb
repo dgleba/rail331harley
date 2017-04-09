@@ -4,5 +4,7 @@
   </div>
   <div class="card-block">
     <%= render "responses/question_body/#{question.type}", question: question, f: f %>
+      Issue: <%= text_field :issue, class: 'form-control' %>
+
   </div>
 </div>
